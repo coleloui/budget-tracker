@@ -22,7 +22,7 @@ The user will need to init and npm i to install the dependencies of compression,
 ---
 
 ## Usage for My Project
-The use of this project is to make it fast and easy for users to create and keep track of their money with this budget tool.
+The use of this project is to make it fast and easy for users to create and keep track of their money with this budget tool. While offline we use IndexedDB to store the data locally in the browser and when the user goes back online the data is pushed to the mongo database and the budget tool is updated.
 
 ![budget-tracker](./photo/budgetTracker.png)
 
