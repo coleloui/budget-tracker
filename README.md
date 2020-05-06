@@ -3,7 +3,7 @@
 ## Description
 This project is used to to have a working website that shows the your budget. You can adjust it on and offline.
 
-This project is deployed at https://sleepy-taiga-66644.herokuapp.com/
+This project is deployed at https://damp-shore-49172.herokuapp.com/
 
 ---
 
@@ -24,7 +24,7 @@ The user will need to init and npm i to install the dependencies of compression,
 ## Usage for My Project
 The use of this project is to make it fast and easy for users to create and keep track of their money with this budget tool.
 
-![workout-tracker](./photo/workout.png)
+![budget-tracker](./photo/budgetTracker.png)
 
 ---
 
